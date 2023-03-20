@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "name": "bank-marketing-data-shaped.csv",
+    "asset_type": "data_asset",
+    "origin_country": "us",
+    "asset_category": "USER",
+    "owner_id": "1000330999",
+    "created_at": "2023-02-09T10:48:15Z",
+    "created": 1675939695494,
+    "asset_id": "data_asset.bankmarketingdatashapedcsv-WY9l",
+    "asset_attributes": [
+      "data_asset"
+    ]
+  },
+  "entity": {
+    "data_asset": {
+      "mime_type": "text/csv",
+      "dataset": true,
+      "properties": [
+        {
+          "name": "encoding",
+          "value": "utf-8"
+        },
+        {
+          "name": "file_format",
+          "value": "csv"
+        },
+        {
+          "name": "first_line_header",
+          "value": "true"
+        }
+      ]
+    }
+  },
+  "attachments": [
+    {
+      "asset_type": "data_asset",
+      "name": "bank-marketing-data-shaped.csv",
+      "object_key": "data_asset/bank-marketing-data-shaped.csv-iWWL",
+      "mime": "text/csv",
+      "object_key_is_read_only": false,
+      "created_at": "2023-02-09T10:48:15Z",
+      "id": "0679dcc0-7ac2-40a1-8cf1-c7811403a8a4",
+      "is_managed": false,
+      "is_referenced": true,
+      "is_remote": false,
+      "size": 529290
+    }
+  ]
+}

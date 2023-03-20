@@ -2,4 +2,5 @@ cpdctl
 cpd-cli-workspace
 bin
 assets/.METADATA/job_run.*
+assets/job_run/notebooks/job_run.*
 assets/*/log
